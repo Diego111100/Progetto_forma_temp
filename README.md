@@ -2,6 +2,7 @@
 Simulazione sito web universitario
 
 Competenze utilizzate:
+
 	- servlet con metodi GET e POST in Java per back-end
 	- HTML e Css per front-end
 	- mySQL workbench per creazione del DB
